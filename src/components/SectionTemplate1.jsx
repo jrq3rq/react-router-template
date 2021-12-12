@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import heroImg from "../assets/heroImg.jpg";
 
-export default function Hero() {
+export default function SectionTemplate1() {
   return (
     <Section id="home">
       <div className="background">
